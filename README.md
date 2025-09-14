@@ -19,7 +19,7 @@ is available, supporting audio clips up to 1 minutes ⏱️.
 **Enjoy making your character talk!** 🤗
 (Note: a queue is possible due to limited computing resources)
 
-https://github.com/user-attachments/assets/b7fa59ec-ea11-446c-9977-219feea7bb4e
+https://github.com/user-attachments/assets/756605ea-3b78-4ee0-9cd5-64898abdce77
 
 🚀 SekoTalk is an ongoing project. We'd love to hear what you think of our project!
 
